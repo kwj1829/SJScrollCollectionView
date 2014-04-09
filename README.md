@@ -14,3 +14,5 @@ easy to show your data table!
 
 
 supported infinite cols!
+
+simple demo code.
