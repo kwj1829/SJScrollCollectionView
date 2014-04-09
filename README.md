@@ -10,3 +10,7 @@ UICollectionViewLayout is FlowLayout
 can scroll horizontal and vertical
 
 easy to show your data table!
+
+
+
+supported infinite cols!
